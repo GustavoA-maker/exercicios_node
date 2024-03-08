@@ -18,7 +18,6 @@ const readline = require("readline").createInterface({
     console.log("O seu voto é obrigatorio")
   }
  
-  console.log("É melhor votar no mito porra.")
   readline.close()
  
 })
